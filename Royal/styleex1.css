@@ -1,0 +1,19 @@
+body{
+    background-color: #2c3e50;
+    color: white;
+}
+
+.dourado{
+    color: #f1c40f;
+}
+
+
+.vermelho{
+    color: red;
+}
+.borda{
+    background-color: #f1c40f;
+    border-style: solid;
+    color: black;
+    
+}

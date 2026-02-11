@@ -1,0 +1,20 @@
+body{
+    background-color: #00b4d8;
+    
+}
+h1{
+    border-style: groove;
+    border-width: 10px;
+    border-color: black;
+}
+.carro {
+    color: blueviolet;
+}
+#titulo{
+    background-color: cornsilk;
+}
+.planetas h1 {
+    font-family: fantasy;
+    background-color: azure;
+}
+
