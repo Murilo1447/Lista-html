@@ -2,7 +2,7 @@ body{
     
     padding-bottom: 200px;
     padding-left: 500px;
-    padding-right: 420px;
+    padding-right: 550px;
     font-family: sans-serif;
     
 }   
@@ -10,7 +10,9 @@ body{
 .principal{
     background-color: antiquewhite;
     padding-left: 10px;
-    
+    text-shadow: 2px 2px 2px grey;
+    border-radius: 30px;
+   padding-bottom: 10px;
     
     
     
