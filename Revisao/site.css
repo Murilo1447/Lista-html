@@ -1,0 +1,31 @@
+body{
+    
+    padding-bottom: 200px;
+    padding-left: 500px;
+    padding-right: 420px;
+    font-family: sans-serif;
+    
+}   
+
+.principal{
+    background-color: antiquewhite;
+    padding-left: 10px;
+    
+    
+    
+    
+    
+}
+.post{
+    text-align: justify;
+    
+    margin-bottom: 50px;
+    
+    padding-top: 10px;
+}
+.data h2{
+    color: blue;
+}
+.conteudo{
+    padding-right: 70px;
+}

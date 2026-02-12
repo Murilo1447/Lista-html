@@ -1,0 +1,15 @@
+.texto{
+    
+    padding: 0px 50px 5px 0;
+   
+    width: 50%;
+    border: rgb(47, 0, 255) solid 10px;
+    text-align: center;
+    margin: 0 auto; 
+    
+    
+}
+.conteudo{
+    border: rgba(255, 0, 0, 0.795) solid 10px;
+    
+}
